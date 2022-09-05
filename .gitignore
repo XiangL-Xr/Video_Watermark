@@ -1,0 +1,13 @@
+/data/input_videos/*
+/data/output_results/*
+/data/test_data
+/data/*.py
+/logs
+/.de_tmp
+/.en_tmp
+video_watermark_decoder.py
+video_watermark_encoder.py
+*.pyc
+/.idea
+*/__pycache__
+/.vscode
